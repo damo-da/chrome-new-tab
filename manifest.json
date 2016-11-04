@@ -1,0 +1,12 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Open your new tab with a message that motivates you to learn!",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "manifest_version": 1,
+   "name": "Awesome New Tab - Keep Calm and Keep Learning",
+   "version": "0.0"
+}
