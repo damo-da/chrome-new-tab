@@ -6,7 +6,7 @@
    "icons": {
       "128": "icon_128.png"
    },
-   "manifest_version": 1,
+   "manifest_version": 2,
    "name": "Awesome New Tab - Keep Calm and Keep Learning",
    "version": "0.0"
 }
